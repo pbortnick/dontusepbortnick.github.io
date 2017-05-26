@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  Sinatra Portfolio Project: Concert Database
-date:   2017-05-26 02:49:55 +0000
+title:  Sinatra Portfolio Project 
+date:   2017-05-25 22:49:56 -0400
 ---
 
+
+## Concert Database
 
 This project sets up a CRUD application where user's can store information about concerts they have attended in an organized website. Users have the ability to sign up, log in, and log out. They can enter the concert band, venue, and date where it is saved in their personal database. They can then edit or delete any of the data entered. Each listing must have all 3 components filled out in order to be saved.
 
