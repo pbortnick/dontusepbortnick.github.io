@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Using Stripe with Rails App"
-date:       2018-01-15 23:17:46 +0000
+date:       2018-01-15 18:17:46 -0500
 permalink:  using_stripe_with_rails_app
 ---
 
