@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Syntax checkers and how to use them"
-date:       2018-02-05 21:08:45 +0000
+title:      "Command Line Syntax Checkers"
+date:       2018-02-05 16:08:46 -0500
 permalink:  syntax_checkers_and_how_to_use_them
 ---
 
